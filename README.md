@@ -15,10 +15,7 @@
 
 <br>
 
-<details open>
-<summary><h2>👤 About Me</h2></summary>
-
-<br>
+## 👤 About Me
 
 I'm **Brandon Ordaz Sánchez**, a **Computer Systems Engineering** student at the **Instituto Tecnológico de Pachuca**. I'm passionate about logical problem-solving and building software on solid architectural foundations, from desktop applications to full web solutions.
 
@@ -28,14 +25,9 @@ I'm **Brandon Ordaz Sánchez**, a **Computer Systems Engineering** student at th
 
 > "Logic builds the code, discipline builds the team."
 
-</details>
-
 <br>
 
-<details>
-<summary><h2>🚀 Featured Projects</h2></summary>
-
-<br>
+## 🚀 Featured Projects
 
 ### 🧩 kairosApp
 Desktop application built in **Java Swing**, focused on scalable software architecture.
@@ -56,14 +48,9 @@ End-to-end development combining web, database, and interactive entertainment.
 - Sensor integration to automate clothes retrieval based on weather conditions.
 - Fully documented prototype, from design through physical implementation.
 
-</details>
-
 <br>
 
-<details>
-<summary><h2>🛠️ Tech Stack</h2></summary>
-
-<br>
+## 🛠️ Tech Stack
 
 <div align="left">
 
@@ -91,45 +78,32 @@ End-to-end development combining web, database, and interactive entertainment.
 
 </div>
 
-</details>
-
 <br>
 
-<details>
-<summary><h2>🏅 Achievements & Certifications</h2></summary>
-
-<br>
+## 🏅 Achievements & Certifications
 
 - 🛡️ **Certification in Security Fundamentals** — Microsoft
 - 🎓 **Technical Professional in Computing** — CONALEP, with **Recognition for Excellence**
 - 🏆 **1st Place in the ZonaTec Contest** — Robotics project "Smart Clothesline"
 
-</details>
-
 <br>
 
-<details>
-<summary><h2>📊 GitHub Stats</h2></summary>
-
-<br>
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=BrandonCorleonee&theme=dark&background=00000000&border=222222&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrandonCorleonee&show_icons=true&theme=dark&bg_color=00000000&border_color=222222&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonCorleonee&layout=compact&theme=dark&bg_color=00000000&border_color=222222&title_color=FFFFFF&text_color=FFFFFF" alt="Top Langs" width="45%"/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=BrandonCorleonee&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonCorleonee&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Langs" width="45%"/>
 
 </div>
 
-</details>
-
 <br>
 
-<details>
-<summary><h2>📬 Contact</h2></summary>
-
-<br>
+## 📬 Contact
 
 <div align="center">
 
@@ -147,8 +121,6 @@ End-to-end development combining web, database, and interactive entertainment.
 </a>
 
 </div>
-
-</details>
 
 <br>
 
