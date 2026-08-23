@@ -125,4 +125,4 @@ End-to-end development combining web, database, and interactive entertainment.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
 
-</div>
+</div> 
