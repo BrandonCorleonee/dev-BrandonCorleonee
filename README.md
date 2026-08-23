@@ -20,8 +20,8 @@
 I'm **Brandon Ordaz Sánchez**, a **Computer Systems Engineering** student at the **Instituto Tecnológico de Pachuca**. I'm passionate about logical problem-solving and building software on solid architectural foundations, from desktop applications to full web solutions.
 
 - 🖥️ **Hardware:** I enjoy PC maintenance and optimization, understanding systems end-to-end — from software down to silicon.
-- 🎧 **Music production:** I create **Dark R&B / Trap** music in **FL Studio**, a space where I combine technical creativity with sound design.
-- 🎮 **eSports leadership:** I'm the **founder of SOULS ESPORTS**, a *Free Fire* team, leading strategy, team coordination, and competitive growth.
+- 🧠 **Algorithmic thinking:** I like breaking down complex problems into clean, efficient logic, applying design patterns to keep code maintainable and scalable.
+- 🌐 **Continuous learning:** I enjoy exploring different tech stacks and frameworks, always looking to sharpen my skills across the full development cycle.
 
 > "Logic builds the code, discipline builds the team."
 
@@ -93,11 +93,6 @@ End-to-end development combining web, database, and interactive entertainment.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=BrandonCorleonee&theme=dark&background=00000000&border=222222&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=BrandonCorleonee&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonCorleonee&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Langs" width="45%"/>
 
 </div>
 
