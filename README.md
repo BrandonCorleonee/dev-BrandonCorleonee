@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=+Hi,+I%27m+Brandon+Ordaz+Sánchez!;+Computer+Systems+Engineer.;+Robotics+%7C+Web+Dev+%7C+Game+Dev;+Recognized+for+Academic+Excellence.;+Certified+in+Security+Fundamentals.&v=3)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=+Hi,+I%27m+Brandon+Ordaz+Sánchez!;+Computer+Systems+Engineer.;+Robotics+%7C+Web+Dev+%7C+Game+Dev;+Certified+in+Security+Fundamentals.&v=3)
 
 ---
 
