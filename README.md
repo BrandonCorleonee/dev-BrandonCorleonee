@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F8F8F2&background=212121&center=true&vCenter=true&width=600&lines=👋+Hi,+I%27m+Brandon+Ordaz+Sánchez!;💻+Computer+Systems+Engineer.;🚀+Robotics+%7C+Web+Dev+%7C+Game+Dev;💡+Recognized+for+Academic+Excellence.;🛡️+Certified+in+Security+Fundamentals.&v=1)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=👋+Hi,+I%27m+Brandon+Ordaz+Sánchez!;💻+Computer+Systems+Engineer.;🚀+Robotics+%7C+Web+Dev+%7C+Game+Dev;💡+Recognized+for+Academic+Excellence.;🛡️+Certified+in+Security+Fundamentals.&v=2" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
@@ -11,7 +15,7 @@ Hi! I am a Computer Systems Engineer focused on logical problem-solving, web dev
 *   🧑‍💻 **'Ice helado' Project:** A comprehensive development featuring:
     *   A web portal built with HTML and CSS connected to **relational databases**.
     *   An interactive video game created using **Lua**.
-*   🛡️ Labor Competence Certification in Security Fundamentals (**CONOCER**).
+*   🛡️ Certification in Security Fundamentals (**Microsoft**).
 
 ### 🛠️ Tools & Tech Stack
 
