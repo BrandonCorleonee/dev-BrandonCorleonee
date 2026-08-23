@@ -20,3 +20,16 @@ Hi! I am a Computer Systems Engineer focused on logical problem-solving, web dev
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=BrandonCorleonee&theme=dark&hide_border=true&v=3)
+
+### 📫 Let's Connect
+
+Feel free to reach out if you want to collaborate on a project, talk about software architecture, or just geeking out about tech!
+
+<div align="left">
+  <a href="mailto:brandonorsa3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/brandon-ordaz-sánchez-870109302/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
