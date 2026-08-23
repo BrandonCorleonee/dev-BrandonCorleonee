@@ -20,5 +20,7 @@ Hi! I am a Computer Systems Engineer focused on logical problem-solving, web dev
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=BrandonCorleonee&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=BrandonCorleonee&theme=dark&hide_border=true&background=212121" alt="GitHub Streak" />
+  </a>
 </div>
