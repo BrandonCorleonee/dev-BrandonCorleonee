@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=👋+Hi,+I%27m+Brandon+Ordaz+Sánchez!;💻+Computer+Systems+Engineer.;🚀+Robotics+%7C+Web+Dev+%7C+Game+Dev;💡+Recognized+for+Academic+Excellence.;🛡️+Certified+in+Security+Fundamentals.&v=2" alt="Typing SVG" />
-  </a>
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=👋+Hi,+I%27m+Brandon+Ordaz+Sánchez!;💻+Computer+Systems+Engineer.;🚀+Robotics+%7C+Web+Dev+%7C+Game+Dev;💡+Recognized+for+Academic+Excellence.;🛡️+Certified+in+Security+Fundamentals.&v=3)
 
 ---
 
@@ -23,8 +19,4 @@ Hi! I am a Computer Systems Engineer focused on logical problem-solving, web dev
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=BrandonCorleonee&theme=dark&hide_border=true&background=212121" alt="GitHub Streak" />
-  </a>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=BrandonCorleonee&theme=dark&hide_border=true&v=3)
