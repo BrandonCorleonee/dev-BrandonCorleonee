@@ -32,6 +32,6 @@ Hi! I am a Computer Systems Engineer focused on logical problem-solving, web dev
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-BrandonCorleonee&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrandonCorleonee&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-BrandonCorleonee&layout=compact&theme=dark" alt="Top Languages" />
 </div>
