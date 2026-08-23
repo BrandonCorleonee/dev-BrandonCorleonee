@@ -4,7 +4,7 @@
 
 Hi! I am a Computer Systems Engineer focused on logical problem-solving, web development, game creation, and robotics innovation. I have participated in a variety of projects, ranging from secure web solutions to building smart automated devices. Always ready for a new challenge!
 
-### 🏆 Achievements & Featured Projects
+### Achievements & Featured Projects
 
 *    **Technical Professional in Computing (Conalep)** with Recognition for Excellence.
 *    Winner of the ZonaTec Robotics Contest with the **'Smart Clothesline'** (Tendedero Inteligente) project.
