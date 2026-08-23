@@ -1,22 +1,159 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=Hi,+I%27m+Brandon+Ordaz+Sánchez!;Computer+Systems+Engineer.;Robotics+%7C+Web+Dev+%7C+Game+Dev;Certified+in+Security+Fundamentals.&v=3)
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=180&section=header" width="100%"/>
 
-Hi! I am a Computer Systems Engineer focused on logical problem-solving, web development, game creation, and robotics innovation. I have participated in a variety of projects, ranging from secure web solutions to building smart automated devices. Always ready for a new challenge!
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Brandon+Ordaz+S%C3%A1nchez;Computer+Systems+Engineering+Student;Software+Architecture+%7C+Web+Development;Robotics+%7C+Logical+Problem+Solving" alt="Typing SVG" />
+</a>
 
-### 🏆 Achievements & Featured Projects
+<br>
 
-*    **Technical Professional in Computing (Conalep)** with Recognition for Excellence.
-*    Winner of the ZonaTec Robotics Contest with the **'Smart Clothesline'** (Tendedero Inteligente) project.
-*    **'Ice helado' Project:** A comprehensive development featuring:
-    *   A web portal built with HTML and CSS connected to **relational databases**.
-    *   An interactive video game created using **Lua**.
-*    Certification in Security Fundamentals (**Microsoft**).
+![Profile Views](https://komarev.com/ghpvc/?username=BrandonCorleonee&style=for-the-badge&color=222222&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/BrandonCorleonee?style=for-the-badge&color=222222&labelColor=000000&logo=github&logoColor=white)
 
-### 🛠️ Tools & Tech Stack
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br>
 
-### 📊 GitHub Stats
+<details open>
+<summary><h2>👤 About Me</h2></summary>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BrandonCorleonee&theme=dark&hide_border=true&v=3)
+<br>
+
+I'm **Brandon Ordaz Sánchez**, a **Computer Systems Engineering** student at the **Instituto Tecnológico de Pachuca**. I'm passionate about logical problem-solving and building software on solid architectural foundations, from desktop applications to full web solutions.
+
+- 🖥️ **Hardware:** I enjoy PC maintenance and optimization, understanding systems end-to-end — from software down to silicon.
+- 🎧 **Music production:** I create **Dark R&B / Trap** music in **FL Studio**, a space where I combine technical creativity with sound design.
+- 🎮 **eSports leadership:** I'm the **founder of SOULS ESPORTS**, a *Free Fire* team, leading strategy, team coordination, and competitive growth.
+
+> "Logic builds the code, discipline builds the team."
+
+</details>
+
+<br>
+
+<details>
+<summary><h2>🚀 Featured Projects</h2></summary>
+
+<br>
+
+### 🧩 kairosApp
+Desktop application built in **Java Swing**, focused on scalable software architecture.
+- Design and planning under agile **Scrum** methodology (sprints, backlog, iterations).
+- Dependency management and project build with **Maven**.
+- Data handling and serialization using **Gson**.
+- Architecture oriented toward maintainability and separation of concerns (MVC).
+
+### 🍦 Project "Ice Helado"
+End-to-end development combining web, database, and interactive entertainment.
+- Web portal built with **HTML5 / CSS3**, focused on user experience.
+- Connection and data management via relational databases (**SQL**).
+- Interactive video game built in **Lua** as a complementary brand experience.
+
+### 🌬️ Smart Clothesline
+**Robotics** project featuring sensors and automation.
+- 🏆 **1st Place** in the **ZonaTec Contest**.
+- Sensor integration to automate clothes retrieval based on weather conditions.
+- Fully documented prototype, from design through physical implementation.
+
+</details>
+
+<br>
+
+<details>
+<summary><h2>🛠️ Tech Stack</h2></summary>
+
+<br>
+
+<div align="left">
+
+**Languages & Web**
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Environments & Hardware**
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Tools & IDEs**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-000000?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+</div>
+
+</details>
+
+<br>
+
+<details>
+<summary><h2>🏅 Achievements & Certifications</h2></summary>
+
+<br>
+
+- 🛡️ **Certification in Security Fundamentals** — Microsoft
+- 🎓 **Technical Professional in Computing** — CONALEP, with **Recognition for Excellence**
+- 🏆 **1st Place in the ZonaTec Contest** — Robotics project "Smart Clothesline"
+
+</details>
+
+<br>
+
+<details>
+<summary><h2>📊 GitHub Stats</h2></summary>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=BrandonCorleonee&theme=dark&background=00000000&border=222222&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=BrandonCorleonee&show_icons=true&theme=dark&bg_color=00000000&border_color=222222&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonCorleonee&layout=compact&theme=dark&bg_color=00000000&border_color=222222&title_color=FFFFFF&text_color=FFFFFF" alt="Top Langs" width="45%"/>
+
+</div>
+
+</details>
+
+<br>
+
+<details>
+<summary><h2>📬 Contact</h2></summary>
+
+<br>
+
+<div align="center">
+
+<a href="mailto:brandonorsa3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/brandon-ordaz-s%C3%A1nchez-870109302" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://discord.com/users/621530017838661674" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://github.com/BrandonCorleonee" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+</details>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer" width="100%"/>
+
+</div>
