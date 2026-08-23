@@ -19,5 +19,6 @@ Hi! I am a Computer Systems Engineer focused on logical problem-solving, web dev
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrandonCorleonee&show_icons=true&theme=dark&v=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonCorleonee&layout=compact&theme=dark&v=1)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=BrandonCorleonee&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
