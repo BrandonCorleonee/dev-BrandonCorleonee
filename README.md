@@ -17,6 +17,8 @@
 
 ## 👤 About Me
 
+*"The future belongs to those who learn more skills and combine them in creative ways." — Robert Greene*
+
 I'm **Brandon Ordaz Sánchez**, a **Computer Systems Engineering** student at the **Instituto Tecnológico de Pachuca**. I'm passionate about logical problem-solving and building software on solid architectural foundations, from desktop applications to full web solutions.
 
 - 🖥️ **Hardware:** I enjoy PC maintenance and optimization, understanding systems end-to-end — from software down to silicon.
