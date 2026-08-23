@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Brandon+Ordaz+S%C3%A1nchez;Computer+Systems+Engineering+Student;Software+Architecture+%7C+Web+Development;Robotics+%7C+Logical+Problem+Solving" alt="Typing SVG" />
 </a>
 
-<br>
+<br> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BrandonCorleonee&style=for-the-badge&color=222222&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/BrandonCorleonee?style=for-the-badge&color=222222&labelColor=000000&logo=github&logoColor=white)
